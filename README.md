@@ -1,1 +1,1 @@
-# H-M_articles_recommendation
+# HM_articles_recommendation
